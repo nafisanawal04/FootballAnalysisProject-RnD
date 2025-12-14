@@ -1,0 +1,11 @@
+*__pycache__*
+*.pyc
+
+__pycache__/
+*.pt
+*.avi
+*.pkl
+
+output_videos/
+input_videos/
+rfdetr_config.py
